@@ -412,6 +412,13 @@
     transform: translateX(3px);
   }
 
+  .svet-orange {
+    display: none;
+  }
+  .svet-blue {
+    display: none;
+  }
+
   .fox-img {
     display: none;
   }
